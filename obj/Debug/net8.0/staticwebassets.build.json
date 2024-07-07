@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KDGfed2VrkVZOJAtp/Btwqb/64ZX/o7j8wVimcsuJB0=",
+  "Source": "DotNetWebAPIAuth",
+  "BasePath": "_content/DotNetWebAPIAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
